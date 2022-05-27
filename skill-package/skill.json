@@ -124,7 +124,6 @@
       },
       "isAvailableWorldwide": true,
       "testingInstructions": "No special testing requirements. This skill is created by an internal team (CTI: Alexa Information Domain / Developer APIs / Alexa Entities Linked Data) and is intended to be transformed into a template for new skills. Please reach out to the given CTI or directly to @vladmihm if you have nay questions.",
-      "category": "KNOWLEDGE_AND_TRIVIA",
       "distributionMode": "PUBLIC",
       "automaticClonedLocale": {
         "locales": [
